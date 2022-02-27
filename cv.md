@@ -45,3 +45,9 @@ var countBits = function(n) {
 + **Courses:**
   + [![Stepik](https://stepik.org/static/classic/ico/favicon_16.png?v=1645447925) Introduction to programming (C++)](https://stepik.org/cert/395486)
   + [![Stepik](https://stepik.org/static/classic/ico/favicon_16.png?v=1645447925) Programming in C++](https://stepik.org/cert/575760)
+
+### LANGUAGES
+
++ Russian - Native
++ English - A1/A2
+  + [![Duolingo](https://icons.iconarchive.com/icons/alecive/flatwoken/16/Apps-Duolingo-icon.png) In process](https://www.duolingo.com/profile/Anton-Shcherba)
