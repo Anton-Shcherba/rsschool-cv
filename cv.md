@@ -12,3 +12,15 @@
 ### ABOUT ME
 
  > I am 27, now i serve as an officer of law enforcement agencies of the Republic of Belarus. I came to RSSchool to develop my skills in a promising direction and change my occupation.
+
+### SKILLS (fundamentals)
+
++ C++
++ Python
++ HTML & CSS
++ JavaScript
++ QT
++ Git
++ SQLite
++ Windows OS
++ VSCode
