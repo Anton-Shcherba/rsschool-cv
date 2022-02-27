@@ -38,3 +38,10 @@ var countBits = function(n) {
   return count
 }
 ```
+
+### EDUCATION
+
++ **University:** Military Academy of Belarus (Faculty of Military Intelligence)
++ **Courses:**
+  + [![Stepik](https://stepik.org/static/classic/ico/favicon_16.png?v=1645447925) Introduction to programming (C++)](https://stepik.org/cert/395486)
+  + [![Stepik](https://stepik.org/static/classic/ico/favicon_16.png?v=1645447925) Programming in C++](https://stepik.org/cert/575760)
