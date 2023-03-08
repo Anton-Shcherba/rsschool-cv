@@ -25,6 +25,22 @@
 
 ### CODE EXAMPLE
 
+_**[Currying vs. Partial Application - KATA from CODEWARS](https://www.codewars.com/kata/53cf7e37e9876c35a60002c9):**_ Currying and partial application are two ways of transforming a function into another function with a generally smaller arity. While they are often confused with each other, they work differently. The goal is to learn to differentiate them.  
+
+```javascript
+function curryPartial(func, ...args) {
+  return args.length >= func.length ? func(...args) : (...rest) => curryPartial(func, ...args, ...rest);
+}
+```
+
 ### EDUCATION
 
++ **University:** Military Academy of Belarus (Faculty of Military Intelligence)
++ **Courses:**
+  + [REACT 2022 (JAVASCRIPT)](https://app.rs.school/certificate/a8gwi4uu)
+  + [JAVASCRIPT/FRONT-END 2022 (JAVASCRIPT)](https://app.rs.school/certificate/hl7rv2g7)
+
 ### LANGUAGES
+
++ Russian - Native
++ English - A1
